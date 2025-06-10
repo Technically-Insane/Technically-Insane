@@ -1,6 +1,6 @@
-- Heyo i am Technically Insane,but call me Tech for short I suppose.
+- Heyo i am Technically Insane, but call me Tech for short I suppose.
 - ----------------------------------------------------------------------
-- I make games, mods n' shid for fun with friends.
+- I make games, software, and other things.
 - ----------------------------------------------------------------------
 - To contact me, to ask for modding help, or general inquerries, find me on Discord and Twitter;
 - Twitter: @Tech_Insan3
